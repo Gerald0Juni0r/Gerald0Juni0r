@@ -1,9 +1,14 @@
 ### Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald0Juni0r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gerald0Juni0r&repo=GuessNumber)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald0Juni0r&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
