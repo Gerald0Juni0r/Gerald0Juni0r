@@ -1,9 +1,8 @@
 ### Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gerald0Juni0r&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Gerald0Juni0r/Gerald0Juni0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
