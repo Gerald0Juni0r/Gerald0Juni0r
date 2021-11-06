@@ -1,11 +1,11 @@
-### <h2>Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!</h2> 
+### <h3>Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!</h3> 
 
 <div align = "center">
     <a href="https://githun.com/Gerald0Juni0r"></a>
     <!-- Stats -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r&show_icons=true&theme=dracula">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r&show_icons=true&theme=dracula">
     <!-- Language -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald0Juni0r&layout=compact&theme=dracula">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald0Juni0r&layout=compact&theme=dracula">
 </div>
    
 <hr>
@@ -14,4 +14,3 @@
     <!-- Snake animation -->
     <img src="https://github.com/Gerald0Juni0r/Gerald0Juni0r/blob/454f8e263d66418e02ba43a8aaf53ba8a2d7f330/github-Contribution-grid-snake.svg" alt="">
 </div>
-  
