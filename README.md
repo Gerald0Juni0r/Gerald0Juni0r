@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald0Juni0r&hide=contribs,prs)
 <!--
 **Gerald0Juni0r/Gerald0Juni0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
