@@ -1,4 +1,4 @@
-### <h3>Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!</h3> 
+## Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!
 
 <div align = "center">
     <a href="https://githun.com/Gerald0Juni0r"></a>
