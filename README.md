@@ -10,4 +10,8 @@
 
 <hr>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align = "center">
+    <!-- Snake animation -->
+    <img src="https://github.com/Gerald0Juni0r/Gerald0Juni0r/blob/454f8e263d66418e02ba43a8aaf53ba8a2d7f330/github-Contribution-grid-snake.svg" alt="">
+</div>
+  
