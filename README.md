@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Geraldo Júnior e sou criador de conteúdo de programação e tecnologia!
 
 
 
