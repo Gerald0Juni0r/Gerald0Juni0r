@@ -1,4 +1,4 @@
-## Olá, me chamo Geraldo Júnior e estou concluindo o curso Técnico em Informática (TI) pelo Centro de Ensino Grau Técnico. Atualmente sou aluno do Oracle Next Education, onde estou adquirindo conhecimento sobre lógica de programação, Front-End e inovação. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML5, CSS3 e JavaScript.
+## Olá, me chamo Geraldo Júnior e sou aluno do Oracle Next Education, onde estou adquirindo conhecimento sobre lógica de programação, Front-End e inovação. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML5, CSS3 e JavaScript.
 
 <div align = "center">
     <a href="https://githun.com/Gerald0Juni0r"></a>
