@@ -1,4 +1,4 @@
-## Olá, me chamo Geraldo Júnior e sou aluno do Oracle Next Education, onde estou adquirindo conhecimento sobre lógica de programação, Front-End e inovação. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML5, CSS3 e JavaScript.
+## Olá, me chamo Geraldo Júnior e sou graduando em Sistemas de Informação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python e Java.
 
 <div align = "center">
     <a href="https://githun.com/Gerald0Juni0r"></a>
