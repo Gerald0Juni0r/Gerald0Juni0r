@@ -4,7 +4,7 @@
 
 <div>
     <!-- Memoji -->
-    <img height="100em" width: "316.68px" src="C:\Users\geral\Downloads\Imagem_do_WhatsApp_de_2023-01-13_à_s__17.51.54-removebg-preview.png";
+    <img height="100em" width: "316.68px" src="![Imagem_do_WhatsApp_de_2023-01-13_à_s__17 51 54-removebg-preview](https://user-images.githubusercontent.com/58188995/212478739-ca0710fb-c4cf-44d0-b1d7-6d6b52e25024.png)";
 </div>
     
 <hr>
