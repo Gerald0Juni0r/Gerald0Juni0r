@@ -1,4 +1,13 @@
-## Olá, me chamo Geraldo Júnior e sou graduando em Sistemas de Informação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python e Java.
+## Olá, me chamo Geraldo Júnior e sou graduando em Sistemas de Informação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python e Java. 
+  
+<hr>
+
+<div>
+    <!-- Memoji -->
+    <img height="100em" width: "316.68px" src="C:\Users\geral\Downloads\Imagem_do_WhatsApp_de_2023-01-13_à_s__17.51.54-removebg-preview.png";
+</div>
+    
+<hr>
 
 <div align = "center">
     <a href="https://githun.com/Gerald0Juni0r"></a>
