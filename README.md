@@ -1,12 +1,5 @@
 ## Olá, me chamo Geraldo Júnior e sou graduando em Sistemas de Informação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python e Java. 
-  
-<hr>
 
-<div>
-    <!-- Memoji -->
-    <img height="100px" width: "93.2px" src="![Imagem_do_WhatsApp_de_2023-01-13_à_s__17 51 54-removebg-preview](https://user-images.githubusercontent.com/58188995/212478739-ca0710fb-c4cf-44d0-b1d7-6d6b52e25024.png)";
-</div>
-    
 <hr>
 
 <div align = "center">
