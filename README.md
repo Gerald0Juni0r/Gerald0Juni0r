@@ -1,4 +1,4 @@
-## Olá, me chamo Geraldo Júnior e sou graduando em Ciência da Computação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python e Java. 
+## Olá, me chamo Geraldo Júnior e sou graduando em Ciência da Computação, na UNINASSAU. Busco atuar na área de desenvolvimento web e tenho habilidades em HTML, CSS, JavaScript, Python, Java e React Native. 
 
 <hr>
 
