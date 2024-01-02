@@ -4,7 +4,6 @@
 <h2>Skills</h2>
 <div>
 <img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
-<img height="45px" src= "https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"/>
@@ -20,7 +19,7 @@
 </div>
 <h2>Redes Sociais</h2>
 <div>
-<a href="https://www.linkedin.com/in/maria-beatriz-lacerda-052115212/">
+<a href="https://www.linkedin.com/in/gerald0juni0r/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </div>
