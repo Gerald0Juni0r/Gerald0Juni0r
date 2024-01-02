@@ -1,9 +1,8 @@
-<h1 style="font-family:Arial,sans-serif;">Olá, meu nome é Geraldo Júnior!</h1>
-<p>Seja bem vindo ao meu perfil do GitHub!</p>
-<p>Tenho 25 anos e resído atualmente no município de Recife - PE. Sou uma entusiásta da tecnologia, apaixonada por  programação e sou graduando em Ciências da Computação, na UNINASSAU.</p>
+<h1 style="font-family:Arial,sans-serif;">Olá, eu sou Geraldo Júnior!</h1>
+<p>Seja bem vindo ao meu perfil no GitHub!</p>
+<p>meu nome é Geraldo Ferreira da Silva Júnior, tenho 25 anos e resído atualmente no município de Recife - PE e sou graduando em Ciências da Computação, na UNINASSAU.</p>
 <h2>Skills</h2>
 <div>
-    HTML, CSS, JavaScript, Python, Java e React Native.
 <img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor"/>
@@ -12,6 +11,7 @@
 <img height="45px" src= "https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"/>
+<img height="45px" src= "https://icongr.am/devicon/reactnative-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/angular-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
