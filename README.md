@@ -13,7 +13,6 @@
 <img height="45px" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
-<img height="45px" src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor"/>
                   
 </div>
 <h2>Redes Sociais</h2>
