@@ -18,7 +18,7 @@
 </div>
 <h2>Redes Sociais</h2>
 <div>
-<a href="https://www.linkedin.com/in/gerald0juni0r/">
+<a target="_blank" href="https://www.linkedin.com/in/gerald0juni0r/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </div>
