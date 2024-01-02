@@ -10,7 +10,6 @@
 <img height="45px" src= "https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"/>
-<img height="45px" src= "https://icongr.am/devicon/reactnative-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
