@@ -3,8 +3,6 @@
 <p>meu nome é Geraldo Ferreira da Silva Júnior, tenho 25 anos e resído atualmente no município de Recife - PE e sou graduando em Ciências da Computação, na UNINASSAU.</p>
 <h2>Skills</h2>
 <div align="center">
-<img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
-<img height="45px" src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
@@ -14,6 +12,8 @@
 <img height="45px" src= "https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
+<img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
+<img height="45px" src= "https://icongr.am/devicon/github-original.svg?size=128&color=currentColor"/>
                   
 </div>
 <h2>Redes Sociais</h2>
