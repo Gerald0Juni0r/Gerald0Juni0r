@@ -10,7 +10,7 @@
 <img height="45px" src= "https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
-<img height="45px" src= "https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"/>
+<img height="45px" src= "https://icongr.am/devicon/postman-original.svg?size=128&color=currentColor"/>
 <img height="45px" src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
                   
 </div>
