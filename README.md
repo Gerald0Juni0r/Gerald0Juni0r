@@ -1,6 +1,6 @@
 <h1 style="font-family:Arial,sans-serif;">Olá, eu sou Geraldo Júnior!</h1>
 <p>Seja bem vindo ao meu perfil no GitHub!</p>
-<p>meu nome é Geraldo Ferreira da Silva Júnior, tenho 26 anos, sou graduando em Ciências da Computação, na UNINASSAU e resído atualmente no município de Recife - PE.</p>
+<p>meu nome é Geraldo Ferreira da Silva Júnior, tenho 26 anos, sou graduando em Ciências da Computação, na UNINASSAU e resido atualmente no município de Recife - PE.</p>
 <h2>Skills</h2>
 <div align="center">
 <img height="45px" src= "https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"/>
